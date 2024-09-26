@@ -123,7 +123,7 @@ interface ovpn-client monitor
 
 Выведем ip нашего vpn клиента
 
-![alt text](assets/21.png)
+![alt text](assets/image2.png)
 
 И выполним ping с облачной машины
 
