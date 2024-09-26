@@ -127,7 +127,7 @@ interface ovpn-client monitor
 
 И выполним ping с облачной машины
 
-lab1/assets/image.png
+![alt text](assets/image.png)
 
 Все успешно
 
