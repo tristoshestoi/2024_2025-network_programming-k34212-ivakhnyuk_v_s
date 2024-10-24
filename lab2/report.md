@@ -12,7 +12,7 @@ Group: K34212
 
 Author: Ivakhnyuk Valeriy Sergeevich
 
-Lab: Lab1
+Lab: Lab2
 
 Date of create: 14.10.2024
 
